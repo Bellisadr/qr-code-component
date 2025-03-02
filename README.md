@@ -5,8 +5,8 @@ The goal was to replicate the provided design as closely as possible using HTML 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- GitHub URL: https://github.com/Bellisadr/qr-code-component.git
+- Live Demo: https://bellisadr.github.io/qr-code-component/
 
 ### Built with
 
