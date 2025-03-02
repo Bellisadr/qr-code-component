@@ -14,12 +14,11 @@ body {
     min-height: 100vh;
     background-color: hsl(212, 45%, 89%);
     font-family: 'Outfit', sans-serif;
-    margin: 40px;
 }
 
 /* Estilo do Container */
 .container {
-    max-width: 300px;
+    max-width: 280px;
     width: 100%;
     padding: 16px;
     text-align: center;
@@ -31,7 +30,7 @@ body {
 
 /* Estilo do QR Code imagem */
 .qr-code img {
-    width: 100%;
+    max-width: 100%;
     border-radius: 15px;
     margin-bottom: 16px;
     display: block;
@@ -41,7 +40,7 @@ body {
 .info h1 {
     text-align: center;
     line-height: 120%;
-    font-size: 22px;
+    font-size: 20px;
     max-width: 320px;
     margin: 0 auto 24px auto;
     font-family: 'Outfit', sans-serif;
